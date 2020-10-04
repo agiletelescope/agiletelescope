@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on [Chat Journal](https://play.google.com/store/apps/details?id=com.agiletelescope.chatjournal) and other python based projects in my free time.
+- 📫 Reach me at [agiletelescope@gmail.com](mailto:agiletelescope@gmail.com) or [@agiletelescope](https://www.twitter.com/agiletelescope)
+
+##### Links
+- [Gitlab](https://gitlab.com/agiletelescope)
+- [Webpage](http://agiletelescope.pythonanywhere.com)
+- [Old Account](https://github.com/sujaybr)
+- [Playstore](https://play.google.com/store/apps/developer?id=Agiletelescope)
+
+
 <!--
 **agiletelescope/agiletelescope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
