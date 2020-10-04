@@ -8,6 +8,10 @@
 - [Old Account](https://github.com/sujaybr)
 - [Playstore](https://play.google.com/store/apps/developer?id=Agiletelescope)
 
+##### Mentions
+- [App of the week](https://memeburn.com/2019/06/chat-journal-app-android/)
+- [App of the Day](https://appoftheday.downloadastro.com/app/chat-journal-timeline-diary-with-pin-fingerprint/)
+
 
 <!--
 **agiletelescope/agiletelescope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
