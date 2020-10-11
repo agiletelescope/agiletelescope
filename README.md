@@ -4,7 +4,6 @@
 - 📫 Reach me at [agiletelescope@gmail.com](mailto:agiletelescope@gmail.com) or [@agiletelescope](https://www.twitter.com/agiletelescope)
 
 ##### Links
-- [Webpage](http://agiletelescope.pythonanywhere.com)
 - [Old Account](https://github.com/sujaybr)
 - [Playstore](https://play.google.com/store/apps/developer?id=Agiletelescope)
 
